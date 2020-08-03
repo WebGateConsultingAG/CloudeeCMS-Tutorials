@@ -10,6 +10,24 @@ to manage and publish serverless webpages in the Amazon Web Services cloud.
 
 In this repository you can find tutorials and samples for [CloudeeCMS](https://github.com/WebGateConsultingAG/CloudeeCMS) and also the [CloudeeCMS-CLI](https://github.com/WebGateConsultingAG/CloudeeCMS-CLI).
 
+## Tutorials for CloudeeCMS
+
+# English
+
+- Will follow soon
+
+# German
+
+- CloudeeCMS Full-Installation [Installationsanleitung Video auf YouTube](https://www.youtube.com/watch?v=50I0hVICLN8)
+
+# French
+
+- Will follow soon
+
 ## Tutorials for CloudeeCMS-CLI
 
-- TODO
+# English
+
+- CLI Tutorial (TBD) by Mirko Eberlein, maintainer of CloudeeCMS-CLI
+- [CLI Tutorial](https://github.com/robots4life/cloudee-cli-workflow) by robots4life
+
