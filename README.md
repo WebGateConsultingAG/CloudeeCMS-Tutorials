@@ -14,7 +14,8 @@ In this repository you can find tutorials and samples for [CloudeeCMS](https://g
 
 ### English
 
-- Will follow soon
+- CloudeeCMS Full-Installation [Installation Guide Video on YouTube](https://www.youtube.com/watch?v=sse14msL32c)
+
 
 ### German
 
